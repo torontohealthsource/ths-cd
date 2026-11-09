@@ -22,4 +22,3 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://growthguyscode.ca/sitemap.xml
